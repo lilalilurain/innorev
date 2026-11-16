@@ -278,6 +278,6 @@ Trước khi cài đặt AutoService, cần đảm bảo cáp mạng của máy 
 Sửa file .yaml: địa chỉ plc 
 
  ```
-   Exec=bash /home/innorev/AutoService/config/server
+   Exec=bash /home/innorev/AutoService/config/service
    ```
 Sửa file .json: - line id, ip (ip là ip host)
