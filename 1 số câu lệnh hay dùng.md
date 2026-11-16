@@ -44,3 +44,8 @@ bash DemoStart.sh
 ```
 sudo chmod +x /home/innorev/Mars/stationmanager
 ```
+
+## Tạo auto service ngoài desktop nếu config có thêm group
+```
+python install_autoservice.py --create-shortcut "AutoService" --station-type FATP-CAM-COMBO-2
+```
