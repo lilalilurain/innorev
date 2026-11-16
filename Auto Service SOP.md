@@ -229,7 +229,8 @@ Trước khi cài đặt AutoService, cần đảm bảo cáp mạng của máy 
 | 虚拟机预留ip2 | IMUT | 其它 | 182.168.9.0/24 | 182.168.9.0/24 | 182.168.9.229 | 否 |  |  | VIP2 |
 
 ### Các bước thực hiện:
-1. Nhấn vào góc trên bên phải màn hình, chọn **Settings**. (images/图片1.png)
+1. Nhấn vào góc trên bên phải màn hình, chọn **Settings**. 
+![Bước 1 - Mở Settings](images/图片1.png)
 2. Tìm mục **Network**, nhấp vào nút cài đặt mạng và truy cập vào đó *(tại đây sẽ hiển thị hai tùy chọn mạng, một là `CVC`, còn tùy chọn chúng ta cần cài đặt là `AutoService`)*.
 3. Nhấn chọn **IPv4**, tích vào tùy chọn **Manual**, điền địa chỉ IP của máy kiểm thử tương ứng vào ô **Address** phía dưới, nhập `24` vào mục **Netmask**, rồi nhấn **Apply** để lưu lại.
 
