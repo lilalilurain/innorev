@@ -1,4 +1,4 @@
-##Tạo port kết nối 2 máy 
+## Tạo port kết nối 2 máy 
 
 B1: ping địa chỉ xem 2 máy có thông với nhau không 
 B2: 
