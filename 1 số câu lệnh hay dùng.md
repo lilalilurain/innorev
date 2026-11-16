@@ -39,6 +39,7 @@ Sau khi kiểm tra số lượng cổng:
 ```
 bash DemoStart.sh
 ```
+M28 thường có 4 cổng, P27 6 cổng
 
 ## Cấp quyền Chrome cho Mars
 ```
