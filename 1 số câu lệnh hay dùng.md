@@ -16,9 +16,11 @@ b3: truy cập http:// địa chỉ máy:port (ví dụ: 182.168.9.105:1234)
 
 port: 8077
 
+
 Tài khoản 182.168.9.104:8077: innorev
 
 pass: Innorev@123 (M28), 123456 (P27)
+
 
 Tài khoản ftp dùng chung 
 
