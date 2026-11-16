@@ -35,7 +35,7 @@ pass: ftp31gl
 ls /dev/ttU*
 ```
 
-Sau khi kiểm tra số lượng cổng:
+Sau khi kiểm tra số lượng cổng mở innorev.debug, nếu không lên thì check lỗi:
 ```
 bash DemoStart.sh
 ```
