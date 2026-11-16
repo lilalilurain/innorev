@@ -270,3 +270,14 @@ Trước khi cài đặt AutoService, cần đảm bảo cáp mạng của máy 
 ## 3. Khác
 
 > **Lưu ý:** Để AutoService hoạt động bình thường, tất cả cấu hình của **Mars** phải chính xác; nếu không, hệ thống sẽ hiển thị thông báo lỗi.
+
+## 4. Sửa file config
+ ```
+   Exec=bash /home/innorev/AutoService/config/station
+   ```
+Sửa file .yaml: địa chỉ plc 
+
+ ```
+   Exec=bash /home/innorev/AutoService/config/server
+   ```
+Sửa file .json: - line id, ip (ip là ip host)
