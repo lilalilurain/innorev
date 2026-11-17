@@ -64,3 +64,8 @@ rustdesk
 
 
 Hoặc tìm kiếm **"RustDesk"** trong menu ứng dụng của Ubuntu.
+
+### 3. Sửa lỗi trong Mars. Nếu bị lỗi không test được group
+
+Bước 1: Mở file Mars/example (kịch bản chạy để sửa file hello world)
+
