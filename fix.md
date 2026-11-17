@@ -68,4 +68,14 @@ Hoặc tìm kiếm **"RustDesk"** trong menu ứng dụng của Ubuntu.
 ### 3. Sửa lỗi trong Mars. Nếu bị lỗi không test được group
 
 Bước 1: Mở file Mars/example (kịch bản chạy để sửa file hello world)
+![Bước 1 - Mở Settings](images/Untitled.png)
 
+Bước 2: Mở file hello world.py
+![Bước 1 - Mở Settings](images/Untitled1.png)
+
+Bước 3: Kéo xuống cuối tìm hàm trong main (test = Test(hello_world)), xóa 3 dòng set_measurement, set_always_run_phase, scof_measurement
+
+![Bước 1 - Mở Settings](images/Untitled2.png)
+
+Bước 4: Search hàm hello_world set time.sleep = 20 và xóa hết nội dung dưới dòng time.sleep trong hàm đó
+![Bước 1 - Mở Settings](images/Untitled3.png)
