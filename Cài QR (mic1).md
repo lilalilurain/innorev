@@ -8,6 +8,7 @@ Bước 3: Mở file CodeScanPCSoftware_V3.0.0.20(20230921)_X64 tìm và run fil
 ![Bước 1 - Mở Settings](images/3.png)
 
 Bước 4: Mở phần mềm quét QR
+
 ![Bước 1 - Mở Settings](images/hinh1.png)
 
 Bước 5: Thiết lập cấu hình mạng của máy quét mã vạch thành 192.168.0.1.
