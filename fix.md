@@ -66,7 +66,7 @@ rustdesk
 Hoặc tìm kiếm **"RustDesk"** trong menu ứng dụng của Ubuntu.
 
 ### 3. Sửa lỗi trong Mars. Nếu bị lỗi không test được group (lỗi set_measurement, scof_measurement)
-![Bước 1 - Mở Settings](images/2aOboRDQPfV25zya6NjKuABochiYQb8yF7GlH612.png)
+![Bước 1 - Mở Settings](images/2aOboRDQPfV25zya6NjKuABochiYQb8yF7GlH612.jpg)
 
 Bước 1: Mở file Mars/example (kịch bản chạy để sửa file hello world)
 ![Bước 1 - Mở Settings](images/Untitled.png)
