@@ -50,3 +50,7 @@ sudo chmod +x /home/innorev/Mars/stationmanager
 ```
 python install_autoservice.py --create-shortcut "AutoService" --station-type FATP-CAM-COMBO-2
 ```
+## Kiểm tra tường lửa
+```
+sudo ufw
+```
