@@ -52,5 +52,5 @@ python install_autoservice.py --create-shortcut "AutoService" --station-type FAT
 ```
 ## Kiểm tra tường lửa
 ```
-sudo ufw
+sudo ufw status
 ```
