@@ -57,13 +57,13 @@ sudo ufw status
 ## Cài IMUC
 IMUC có thể chạy chung trên 1 ubuntu, cần nhờ bên anh Đức set port trước (2 port khác nhau và không trùng với port IMUT)
 
-Trước khi run cần tắt đọc PLC. Mở file .yaml trong station sửa simulation trong hàm station_name thành true
+Trước khi run cần tắt đọc PLC. Mở file .yaml trong station sửa simulation trong hàm station_name thành true.
 Trong file AutoService mở terminal chạy lệnh:
 ```
-python run.py --config "config/L1/IMUC/service/IMUC_01.json
+python run.py --config "config/L1/IMUC/service/IMUC_01.json"
 ```
 Mở 1 terminal khác (không chạy cùng 1 terminal):
 ```
-python run.py --config "config/L1/IMUC/service/IMUC_02.json
+python run.py --config "config/L1/IMUC/service/IMUC_02.json"
 ```
 
