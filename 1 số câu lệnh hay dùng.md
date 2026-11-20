@@ -12,7 +12,7 @@ ví dụ: python -m http.server 1234
 b3: truy cập http:// địa chỉ máy:port (ví dụ: 182.168.9.105:1234)
 
 ## Địa chỉ host
-182.168.9.104 
+182.168.9.104 (182.168.1.12)
 
 port: 8077
 
@@ -24,7 +24,7 @@ pass: Innorev@123 (M28), 123456 (P27)
 
 Tài khoản ftp dùng chung 
 
-link: ftp://182.168.9.104
+link: ftp://182.168.9.104 (182.168.1.12)
 
 user: ftpUser
 
